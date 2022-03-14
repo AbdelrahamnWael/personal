@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-image: url("./l.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+header{
+    width: auto;
+    overflow: auto;
+    margin-top: 2%;
+}
+.container{
+    max-width: 1300px;
+}
+.logo{
+    float: left;
+}
+
+.logo h2{
+    color: white;
+    margin-left: 20px;
+}
+nav{
+    float: right;
+}
+nav ul{
+    width: auto;
+    overflow: auto;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px 15px;
+
+}
+nav ul li:hover{
+    border: 1px solid white;
+}
+.act{
+    border: 1px solid white;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.text{
+    margin-top: 18%;
+}
+.text h1{
+    color: white;
+    text-align-last: center;
+    font-size: 40px;
+    font-family: monospace;
+}
+
+.buttons{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border: 1px solid white;
+    margin-right: 5px;
+}
+ button a{
+     text-decoration: none;
+     color: black;
+     font-family: sans-serif;
+     font-weight: 900;
+ }
+ .btn-1{
+     color: white;
+     background-color: #0984e3;
+     border: 1px solid#0984e3 ;
+    }
+    .btn-1 a{
+        color: white;
+    }
+ .btn-2{
+     color: white;
+     background-color: #0984e3;
+     border: 1px solid#0984e3 ;
+    }
+    .btn-2 a{
+        color: white;
+    }

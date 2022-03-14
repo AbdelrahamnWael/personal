@@ -1,0 +1,43 @@
+body{
+    background-color: cadetblue;
+}
+.head{
+    font-family: cursive;
+    text-align: center;
+    background-color: blue;
+}
+.x{
+    font-size: 35px;
+    text-decoration: none;
+    padding: 0;
+    text-align: center;
+    border: 5px solid rgb(0, 0, 0) ;
+}
+
+
+.y{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.z{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.desc{
+    font-size: 25px;
+}
+.desc2{
+    font-size: 25px;
+}
+.a1{
+  text-decoration: none;
+  color: blue;
+}
+
+.imgs{
+    width: 10%; height: 10%;
+}
+
+.imgs2{
+    width: 9%; height: 9%;
+    margin-right: 50%;
+}
